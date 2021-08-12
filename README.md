@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://telegra.ph/file/329647a798cccb101aecf.jpg">
 </p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VTheekshana/AmeliaRobot.git)
 
 # Amelia Group BoT
 
